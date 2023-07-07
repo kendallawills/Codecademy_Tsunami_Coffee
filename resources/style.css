@@ -82,3 +82,16 @@ li {
 
 /* GALLERY */
 
+.gallery img {
+    width: 30%;
+    display: block;
+    float: left;
+    margin: 1.5%;
+}
+
+.clearfix {
+    clear: both;
+}
+
+/* LOCATION */
+
