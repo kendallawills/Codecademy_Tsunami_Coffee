@@ -95,3 +95,14 @@ li {
 
 /* LOCATION */
 
+.location {
+    text-align: center;
+    margin-bottom: 7rem;
+}
+
+.location img {
+    width: 100%;
+}
+
+/* FOOTER */
+
