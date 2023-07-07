@@ -13,6 +13,13 @@ body {
     margin: 0 auto;
 }
 
+.supporting,
+.rating,
+.gallery,
+.location {
+    margin: 4em auto;
+}
+
 /* MAIN */
 
 .main {
@@ -44,4 +51,18 @@ li {
 }
 
 /* SUPPORTING */
+
+.supporting {
+    display: flex;
+    align-items: flex-start;
+    padding: 0 1rem;
+}
+
+.supporting img {
+    width: 10%;
+    height: 10%;
+    margin-right: 5%;
+}
+
+/* RATING */
 
